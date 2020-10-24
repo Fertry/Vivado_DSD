@@ -1,0 +1,42 @@
+Unable to capture context for thread 8052 in process 1564, can not generate back trace
+Unable to capture context for thread 11440 in process 1564, can not generate back trace
+Unable to capture context for thread 16256 in process 1564, can not generate back trace
+Exception at PC 0x00007FFF0A723B29
+Unable to capture context for thread 8052 in process 1564, can not generate back trace
+Unable to capture context for thread 11440 in process 1564, can not generate back trace
+Unable to capture context for thread 16256 in process 1564, can not generate back trace
+Exception at PC 0x00007FFEAC03BB93
+Printing stacktrace...
+
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
+[0]  [0x00007FFEAC03BB93]
+[1]  [0x00007FFEAC03BB93]
+[2]  [0x00007FFEAC03B4A1]
+[3]  [0x00007FFEAC03B3EF]
+[4]  [0x00007FFEAC0219FE]
+[5]  [0x00007FFEAC020ED1]
+[6]  [0x00007FFEAC020D76]
+[7]  [0x00007FFEABFC79F6]
+[8]  [0x00007FFEABFB7AFB]
+[9]  [0x00007FFEAC0DE90A]
+[10]  [0x00007FFEAC0F9F87]
+[11]  [0x00007FFEAC0FA05F]
+[12] (BaseThreadInitThunk+0x14) [0x00007FFF0D0C7C24]
+[13] (RtlUserThreadStart+0x21) [0x00007FFF0D4ACEA1]
+Done
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
+Exception at PC 0x00007FFF0A723B29
