@@ -2,8 +2,8 @@
 # Vivado v2016.4 (64-bit)
 # SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
 # IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
-# Start of session at: Sat Oct 24 20:01:12 2020
-# Process ID: 4960
+# Start of session at: Sun Oct 25 12:12:43 2020
+# Process ID: 15736
 # Current directory: C:/Users/Alejandro/Documents/Verilog/Vivado_DSD/Practica1/Practica1.runs/synth_1
 # Command line: vivado.exe -log TutVivado.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source TutVivado.tcl
 # Log file: C:/Users/Alejandro/Documents/Verilog/Vivado_DSD/Practica1/Practica1.runs/synth_1/TutVivado.vds

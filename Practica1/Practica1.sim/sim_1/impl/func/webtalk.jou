@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sun Oct 25 12:27:54 2020
+# Process ID: 13308
+# Current directory: C:/Users/Alejandro/Documents/Verilog/Vivado_DSD/Practica1/Practica1.sim/sim_1/impl/func
+# Command line: wbtcv.exe -mode batch -source C:/Users/Alejandro/Documents/Verilog/Vivado_DSD/Practica1/Practica1.sim/sim_1/impl/func/xsim.dir/TutVivado_tb1_func_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Alejandro/Documents/Verilog/Vivado_DSD/Practica1/Practica1.sim/sim_1/impl/func/webtalk.log
+# Journal file: C:/Users/Alejandro/Documents/Verilog/Vivado_DSD/Practica1/Practica1.sim/sim_1/impl/func\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Alejandro/Documents/Verilog/Vivado_DSD/Practica1/Practica1.sim/sim_1/impl/func/xsim.dir/TutVivado_tb1_func_impl/webtalk/xsim_webtalk.tcl -notrace

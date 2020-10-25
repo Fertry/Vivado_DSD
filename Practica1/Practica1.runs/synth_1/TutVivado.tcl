@@ -19,6 +19,9 @@ read_verilog -library xil_defaultlib C:/Users/Alejandro/Documents/Verilog/Vivado
 foreach dcp [get_files -quiet -all *.dcp] {
   set_property used_in_implementation false $dcp
 }
+read_xdc C:/Users/Alejandro/Documents/Verilog/Vivado_DSD/FUENTES_ALUMNOS_P1_P2/SESION1/Basys3_Master.xdc
+set_property used_in_implementation false [get_files C:/Users/Alejandro/Documents/Verilog/Vivado_DSD/FUENTES_ALUMNOS_P1_P2/SESION1/Basys3_Master.xdc]
+
 
 synth_design -top TutVivado -part xc7a35tcpg236-1
 

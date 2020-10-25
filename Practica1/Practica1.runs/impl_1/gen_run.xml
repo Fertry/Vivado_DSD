@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1603566414">
-  <File Type="PLACE-DCP" Name="TutVivado_placed.dcp"/>
-  <File Type="PA-DCP" Name="TutVivado.dcp"/>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1603624797">
+  <File Type="PWROPT-DRC" Name="TutVivado_drc_pwropted.rpt"/>
   <File Type="OPT-METHODOLOGY-DRC" Name="TutVivado_methodology_drc_opted.rpt"/>
   <File Type="INIT-TIMING" Name="TutVivado_timing_summary_init.rpt"/>
   <File Type="ROUTE-PWR-RPX" Name="TutVivado_power_routed.rpx"/>
@@ -12,8 +11,8 @@
   <File Type="OPT-DRC" Name="TutVivado_drc_opted.rpt"/>
   <File Type="OPT-TIMING" Name="TutVivado_timing_summary_opted.rpt"/>
   <File Type="PWROPT-DCP" Name="TutVivado_pwropt.dcp"/>
-  <File Type="PWROPT-DRC" Name="TutVivado_drc_pwropted.rpt"/>
   <File Type="PWROPT-TIMING" Name="TutVivado_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="TutVivado_placed.dcp"/>
   <File Type="PLACE-IO" Name="TutVivado_io_placed.rpt"/>
   <File Type="PLACE-CLK" Name="TutVivado_clock_utilization_placed.rpt"/>
   <File Type="PLACE-UTIL" Name="TutVivado_utilization_placed.rpt"/>
@@ -78,14 +77,18 @@
   </FileSet>
   <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
     <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../FUENTES_ALUMNOS_P1_P2/SESION1/Basys3_Master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
     <Config>
       <Option Name="ConstrsType" Val="XDC"/>
     </Config>
   </FileSet>
   <Strategy Version="1" Minor="2">
-    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2016">
-      <Desc>Default settings for Implementation.</Desc>
-    </StratHandle>
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2016"/>
     <Step Id="init_design"/>
     <Step Id="opt_design"/>
     <Step Id="power_opt_design"/>
