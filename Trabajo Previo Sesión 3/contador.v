@@ -12,18 +12,10 @@ module contador (input clk, output salida);
     // Asignamiento continuo del valor de salida:
     assign salida = contador[5];
 	
-    // Incremento y reseteo del contador:
+    // Incremento del contador:
 	always @ (posedge clk)
 	begin
-        // 2^6 = 64
-		if (contador == 64)
-			begin
-				contador <= 0;
-			end
-		else
-			begin
-				contador <= contador + 1;
-			end
+		contador <= contador + 1;
 	end
 
 endmodule

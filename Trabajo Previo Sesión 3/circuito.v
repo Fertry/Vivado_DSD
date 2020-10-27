@@ -25,15 +25,7 @@ module circuito (input clk, dir, output led1, led2, led3, led4);
     // Contador:
 	always @ (posedge clk)
 	begin
-        // 2^6 = 64
-		if (contador == 64)
-			begin
-				contador <= 0;
-			end
-		else
-			begin
-				contador <= contador + 1;
-			end
+		contador <= contador + 1;
 	end
 
     // Control de los estados usando case en función
