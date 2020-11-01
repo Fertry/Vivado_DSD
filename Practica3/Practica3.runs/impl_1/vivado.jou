@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Thu Oct 29 17:06:35 2020
+# Process ID: 5552
+# Current directory: C:/Users/practicas/Desktop/Practica3/Practica3.runs/impl_1
+# Command line: vivado.exe -log circuito.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source circuito.tcl -notrace
+# Log file: C:/Users/practicas/Desktop/Practica3/Practica3.runs/impl_1/circuito.vdi
+# Journal file: C:/Users/practicas/Desktop/Practica3/Practica3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source circuito.tcl -notrace

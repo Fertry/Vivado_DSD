@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/practicas/Desktop/Practica3/Practica3.sim/sim_1/impl/func/circuito_tb_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module circuito
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/practicas/Desktop/Practica3/Practica3.srcs/sim_1/new/circuito_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module circuito_tb

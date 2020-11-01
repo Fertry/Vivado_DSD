@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Thu Oct 29 16:42:38 2020
+# Process ID: 224
+# Current directory: C:/Users/practicas/Desktop/Practica3/Practica3.sim/sim_1/impl/func
+# Command line: wbtcv.exe -mode batch -source C:/Users/practicas/Desktop/Practica3/Practica3.sim/sim_1/impl/func/xsim.dir/circuito_tb_func_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/practicas/Desktop/Practica3/Practica3.sim/sim_1/impl/func/webtalk.log
+# Journal file: C:/Users/practicas/Desktop/Practica3/Practica3.sim/sim_1/impl/func\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/practicas/Desktop/Practica3/Practica3.sim/sim_1/impl/func/xsim.dir/circuito_tb_func_impl/webtalk/xsim_webtalk.tcl -notrace
